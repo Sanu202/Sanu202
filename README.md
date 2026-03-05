@@ -9,10 +9,6 @@ Passionate about building modern web applications and learning new technologies.
 ## 🐍 Contribution Snake
 ![Snake animation](https://raw.githubusercontent.com/Sanu202/Sanu202/output/github-contribution-grid-snake-dark.svg)
 
-<p align="center">
-  <img src="https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
 ---
 
 ## 🚀 Tech Stack
@@ -53,11 +49,5 @@ Passionate about building modern web applications and learning new technologies.
 
 ---
 
-## 📫 Connect With Me
-
-- GitHub: https://github.com/your-username  
-- LinkedIn: Add your LinkedIn link here  
-
----
 
 ⭐ From Sanuthmi with passion for Web Development
