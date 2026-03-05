@@ -6,7 +6,7 @@ Passionate about building modern web applications and learning new technologies.
 
 ---
 
-## 🐍 Contribution Snake
+
 ![Snake animation](https://raw.githubusercontent.com/Sanu202/Sanu202/output/github-contribution-grid-snake-dark.svg)
 
 ---
@@ -30,24 +30,16 @@ Passionate about building modern web applications and learning new technologies.
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" />
-</p>
-
----
 
 ## 🌟 About Me
-
-💻 Web Application Developer  
-💡 Love building clean and user-friendly applications  
-🌱 Continuously learning and improving my development skills  
-🚀 Interested in full-stack development and modern web technologies  
+ 
+Web Application Developer  
+Love building clean and user-friendly applications  
+Continuously learning and improving my development skills  
+Interested in full-stack development and modern web technologies  
 
 ---
 
 
-⭐ From Sanuthmi with passion for Web Development
+
